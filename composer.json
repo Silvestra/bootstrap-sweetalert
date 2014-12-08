@@ -12,7 +12,7 @@
             ],
             "styles": [
                 "lib/sweet-alert.css"
-            ]
+            ],
             "files": [
                 "lib/sweet-alert.min.js"
             ]
