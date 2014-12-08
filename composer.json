@@ -1,0 +1,21 @@
+{
+    "name": "silvestra/bootstrap-sweetalert",
+    "homepage": "https://github.com/lipis/bootstrap-sweetalert",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "lib/sweet-alert.js"
+            ],
+            "styles": [
+                "lib/sweet-alert.css"
+            ]
+            "files": [
+                "lib/sweet-alert.min.js"
+            ]
+        }
+    }
+}
